@@ -1,23 +1,14 @@
-<img width="1469" height="832" alt="Screenshot 2026-03-01 at 10 33 35 AM" src="https://github.com/user-attachments/assets/169209b5-b804-4a90-8e4f-7b8a2001dc1b" /># <p align="center">🌌 StreamSelector AI</p>
+# <p align="center">🌌 StreamSelector AI</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=35&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Your+Future+Architect;Precision+Career+Diagnostics;College+Scholarship+Matrix" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Logic-Weighted_Algorithm-38BDF8?style=for-the-badge&logo=probot&logoColor=white" />
   <img src="https://img.shields.io/badge/UI-3D_Glassmorphism-c084fc?style=for-the-badge&logo=windowsterminal&logoColor=white" />
   <img src="https://img.shields.io/badge/Deployed-Vercel-10b981?style=for-the-badge&logo=vercel&logoColor=white" />
-</p><img width="1470" height="833" alt="Screenshot 2026-03-01 at 10 34 16 AM" src="https://github.com/user-attachments/assets/5fb69b7a-b1f3-4db6-81b2-ff6fd1020daf" />
+</p>
 
-![Uploading Screenshot 2026-04-15 at 2.34.59 PM.png…]()
-
-
-![Uploading Screenshot 2026-![Uploading Screenshot 2026-03-01 at 10.32.29 AM.png…]()
-03-01 at 10.33.35 AM.png…]()
-
----<img width="1460" height="838" alt="S![Uploading Screenshot 2026-03-01 at 10.32.47 AM.png…]()
-creenshot 2026-03-01 at 10 31 07 AM" src="https://github.com/user-attachments/assets/1c10ab44-1b06-4a77-88b9-b79321799001" />
-
+---
 
 ## ✨ The Vision
 **StreamSelector** is a high-performance **Neural Diagnostic Engine** built to eliminate career confusion. Designed for the high-pressure Indian education landscape, it uses mathematical weighted modeling to analyze academic performance against psychometric affinities, delivering a 100% actionable career roadmap and university dossier.
@@ -26,10 +17,47 @@ creenshot 2026-03-01 at 10 31 07 AM" src="https://github.com/user-attachments/
 
 ---
 
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Canvas_API-38bdf8?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Glassmorphism_UI-c084fc?style=for-the-badge&logo=windowsterminal&logoColor=white" />
+</p>
+
+- **3D Particle Engine** — Canvas-based interactive background with mouse tracking
+- **SVG Avatar System** — Dynamic gradient avatars per stream & gender
+- **CSS Animations** — Orbital rings, anti-gravity floating, pulse effects
+- **LocalStorage** — Client-side result persistence across pages
+
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nodemailer-0F9DCE?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black" />
+</p>
+
+- **OTP Authentication** — Secure 6-digit OTP via Gmail SMTP using Nodemailer
+- **REST API** — `/api/send-otp` and `/api/verify-otp` endpoints
+- **In-Memory OTP Store** — Auto-expiry after 5 minutes using `crypto.randomInt`
+- **CORS Enabled** — Seamless frontend-backend communication
+
+### 🚀 Deployment
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
 ## 📽️ Interface Preview
 
 <p align="center">
-  <img src="https://github.com/SahilAhamad/StreamSelector/raw/main/screenshots/hero_preview.gif" width="90%" style="border-radius: 20px; border: 1px solid #38bdf8; box-shadow: 0 0 30px rgba(56,189,248,0.2);" />
+  <img src="https://github.com/PoojaS/StreamSelector/raw/main/screenshots/hero_preview.gif" width="90%" style="border-radius: 20px; border: 1px solid #38bdf8; box-shadow: 0 0 30px rgba(56,189,248,0.2);" />
 </p>
 
 <table align="center">
@@ -77,3 +105,8 @@ graph LR
     style A fill:#05050f,stroke:#38bdf8,stroke-width:2px,color:#fff
     style G fill:#13131f,stroke:#c084fc,stroke-width:4px,color:#fff
     style H fill:#13131f,stroke:#10b981,stroke-width:4px,color:#fff
+```
+
+---
+
+<p align="center">Built with 💙 by <b>Ajeet Singh</b> • StreamSelector AI • HTML, CSS & JS</p>
